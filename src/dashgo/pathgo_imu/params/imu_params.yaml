@@ -1,0 +1,5 @@
+port: /dev/ttyS2
+imu_baudrate: 115200
+imu_freq: 100
+angle_offset: 1.01
+
